@@ -15,7 +15,7 @@ Some things about me:
 
 - <img src="https://i.pinimg.com/736x/79/5e/bb/795ebb5f4a470cd7242136237f61fc53.jpg" alt="java" width="20" height="20"/> Java
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="17" height="17"/> Python
-- PHP
+- <img src="http://pngimg.com/uploads/php/php_PNG12.png" alt="php" width="17" height="17"/> PHP
 - XML, HTML y CSS
 - <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="17" height="17"/> Bash
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="17" height="17"/> Linux
