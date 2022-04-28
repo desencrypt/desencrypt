@@ -13,7 +13,7 @@ Some things about me:
 
 ## Languages
 
-- Java
+- <img src="https://w7.pngwing.com/pngs/837/18/png-transparent-logo-java-runtime-environment-programming-language-runtime-system-oracle-text-logo-desktop-wallpaper-thumbnail.png" alt="python" width="17" height="17"/> Java
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="17" height="17"/> Python
 - PHP
 - XML, HTML y CSS
