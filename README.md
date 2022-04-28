@@ -17,7 +17,7 @@ Some things about me:
 - Python
 - PHP
 - XML, HTML y CSS
-- Bash <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+- Bash <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="20" height="20"/>
 - Powershell
 - SQL
 
