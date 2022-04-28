@@ -13,12 +13,12 @@ Some things about me:
 
 ## Languages
 
-• Java
-• Python
-• PHP
-• XML, HTML y CSS
-• Bash
-• Powershell
-• SQL
+- Java
+- Python
+- PHP
+- XML, HTML y CSS
+- Bash
+- Powershell
+- SQL
 
 
