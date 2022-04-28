@@ -14,10 +14,10 @@ Some things about me:
 ## Languages
 
 - Java
-- Python
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> Python
 - PHP
 - XML, HTML y CSS
-- Bash <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="20" height="20"/>
+- <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="15" height="15"/> Bash
 - Powershell
 - SQL
 
