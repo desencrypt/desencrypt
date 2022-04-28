@@ -3,7 +3,7 @@
 
 
 
-Here are some ideas to get you started:
+Some things about me:
 
 - 🔭 I’m currently working in the area of cybersecurity, **Pentester**
 - 📓 Sysadmin, Developer and Pentester. With certification as **eJPT** and working hard to achieve the OSCP
