@@ -21,5 +21,8 @@ Some things about me:
 - <img src="https://static.wikia.nocookie.net/logopedia/images/2/24/Windows_PS_2015.png/revision/latest?cb=20210821235048&path-prefix=es" alt="powershell" width="17" height="17"/> Powershell
 - <img src="https://blog.desafiolatam.com/wp-content/uploads/2018/05/sql-logo.png" alt="sql" width="17" height="17"/> SQL
 
+## CTF Platforms
+
+
 
 <!-- <a href="https://app.hackthebox.eu/profile/" target="_blank"> <img src="https://i.imgur.com/FQ6YBpS.png" alt="htb" width="50" height="50"/> </a> -->
