@@ -18,6 +18,7 @@ Some things about me:
 - PHP
 - XML, HTML y CSS
 - <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="15" height="15"/> Bash
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="15" height="15"/> Linux
 - Powershell
 - SQL
 
