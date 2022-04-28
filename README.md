@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working in the area of cybersecurity, **Pentester**
-- 📓 Sysadmin, Developer and Pentester. With certification as **ejpt** and working hard to achieve the OSCP
+- 📓 Sysadmin, Developer and Pentester. With certification as **eJPT** and working hard to achieve the OSCP
 
 
