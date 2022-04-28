@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Desencrypt 👋
+### I am an enthusiast of offensive security to which I spend most of my free time
+
 
 <!--
 **desencrypt/desencrypt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working in the area of cybersecurity, *Pentester*
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
