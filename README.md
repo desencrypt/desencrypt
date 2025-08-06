@@ -18,7 +18,7 @@ Some things about me:
 - <img src="http://pngimg.com/uploads/php/php_PNG12.png" alt="php" width="17" height="17"/> PHP
 - <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="17" height="17"/> Bash
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="17" height="17"/> Linux
-- <img src="https://static.wikia.nocookie.net/logopedia/images/2/24/Windows_PS_2015.png/revision/latest?cb=20210821235048&path-prefix=es" alt="powershell" width="17" height="17"/> Powershell
+- <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="powershell" width="17" height="17"/> Powershell
 - <img src="https://blog.desafiolatam.com/wp-content/uploads/2018/05/sql-logo.png" alt="sql" width="17" height="17"/> SQL
 
 ## CTF Platforms
