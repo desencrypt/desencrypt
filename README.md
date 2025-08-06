@@ -6,7 +6,7 @@
 Some things about me:
 
 - 🔭 I’m currently working in the area of cybersecurity, **Pentester**
-- 📓 Sysadmin, Developer, DevOps Azure and AWS and Pentester. With certification as **eJPT**, **eWPT**, **OSWP**, **OSCP**, **CRTP** and **CRTE**, and working hard to achieve the OSEP
+- 📓 Sysadmin, Developer, DevOps Azure and AWS and Pentester. With certification as **eJPT**, **eWPT**, **OSWP**, **OSCP**, **CRTP**, **CRTO** and **CRTE**, and working hard to achieve the OSEP
 - 💻 My HackTheBox: https://www.hackthebox.eu/profile/261744
 
 
